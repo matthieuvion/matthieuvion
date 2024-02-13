@@ -6,17 +6,18 @@
 <br>
 <p align="center"><i> Ex. data scientist @Linkfluence (Radarly). Skillz in NLP, tabular data, time-series, APIs, but curious about anything, really.</i></p>
 <br>
-<b>Current things I'm working on :</b>  
+<b>Current things I'm working on : </b>  
 
-- <i>As a true Le Monde subscriber & comments section lurker ;)</i>  
 - [lmd_viz](https://github.com/matthieuvion/lmd_viz) : crafted my own 200k dataset on Ukraine conflict. Comments as a proxy for people engagement.
 - [lmd_classi](https://github.com/matthieuvion/lmd_classi) : manual labeling + baseline model few shots classification w/ SetFit.  
-- [WIP](https://www.kaggle.com/amadevs/code) : synthetic comments generation w/ Mistral-7B. Next steps will be fine-tune and train a good old Bert for performance. 
+- [WIP](https://www.kaggle.com/amadevs/code) : synthetic comments generation w/ Mistral-7B. Next steps will be fine-tune and train a good old Bert for inference perf. 
 
-<b>Cool things :</b>
+<b>Cool stuff :</b>  
+
 - [wzkd app](https://github.com/matthieuvion/wzkd) & [match2kd](https://github.com/matthieuvion/match2kd) : reverse engineering matchmaking score from players' features only ; using XGB & streamlit App.
 - [wzlight](https://github.com/matthieuvion/wzlight) :  light wrapper around COD WZ api (discontinuated since). Also available on [PyPi](https://pypi.org/project/wzlight/).
 
 
-<b>My favorite AI/ML newsletter (should read it too!) :</b><br>
-Not mine, not sponsored. No fluff, technical-but-simple enough and existed way before the LLM hype : [Data Machina](https://datamachina.com)
+<b>My favorite AI/ML newsletter (should read it too!) :</b>  
+
+[Data Machina](https://datamachina.com) : not mine, not sponsored. Technical-but-simple enough and existed way before the LLM hype.  
