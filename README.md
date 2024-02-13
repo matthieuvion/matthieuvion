@@ -6,10 +6,10 @@
 <br>
 <p align="center"><i> Ex. data scientist @Linkfluence (Radarly). Skillz in NLP, tabular data, time-series, APIs, but curious about anything, really.</i></p>
 <br>
-Current project I'm working on:  
+Current project I'm working on :<br>
 *As a true Le Monde comments section lurker ;)*  
 
- Not so serious things :  
+ Not so serious things :<br>
 - [wzkd app](https://github.com/matthieuvion/wzkd) and [match2kd](https://github.com/matthieuvion/match2kd) : Reverse engineering matchmaking score from players' features only using XGB & streamlit App.
 - [wzlight](https://github.com/matthieuvion/wzlight) :  light wrapper around COD WZ api (discontinuated since). Also available on [PyPi](https://pypi.org/project/wzlight/).
 
