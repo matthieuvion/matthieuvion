@@ -6,7 +6,7 @@
 <br>
 <p align="center"><i> Ex. data scientist @Linkfluence (Radarly). Skillz in NLP, tabular data, time-series, APIs, but curious about anything, really.</i></p>
 <br>
-<b>Current things I'm working on : </b>  
+<b>Current project : synthetic data gen / classification : </b>  
 
 - [lmd_viz](https://github.com/matthieuvion/lmd_viz) : crafted my own 200k dataset on Ukraine conflict. Comments as a proxy for people engagement.
 - [lmd_classi](https://github.com/matthieuvion/lmd_classi) : manual labeling + baseline model few shots classification w/ SetFit.  
