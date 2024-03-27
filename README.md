@@ -4,13 +4,12 @@
 <a href="https://huggingface.co/gentilrenard"><img src="https://img.shields.io/badge/HuggingFace-black?style=flat&logo=huggingface&logoColor=white" alt="HuggingFace Badge"/></a>
 </div>
 <br>
-<p align="center"><i> Ex. data scientist @Linkfluence (Radarly). Skillz in NLP, tabular data, time-series, APIs, but curious about anything, really.</i></p>
+<p align="center"><i> Ex. data scientist @Linkfluence (Radarly). NLP, tabular data, time-series, APIs, but curious about anything, really.</i></p>
 <br>
-<b>Current project : synthetic data gen / classification : </b>  
+<b>Current projects : synthetic data gen / classification : </b>  
 
-- [lmd_viz](https://github.com/matthieuvion/lmd_viz) : crafted my own 200k dataset on Ukraine conflict. Comments as a proxy for people engagement.
-- [lmd_classi](https://github.com/matthieuvion/lmd_classi) : manual labeling + baseline model few shots classification w/ SetFit.  
-- [WIP](https://www.kaggle.com/amadevs/code) : synthetic comments generation w/ Mistral-7B. Next steps will be fine-tune and train a good old Bert for inference perf. 
+- [lmd_viz](https://github.com/matthieuvion/lmd_viz) : Ukraine War (1st year) : comments as a proxy for people engagement. Viz + crafted my own 200k dataset from Le Monde w/ custom API. 
+- [lmd_classi](https://github.com/matthieuvion/lmd_classi) : Clf on pro-russian comments. From (small) annotated data + baseline w/ SetFit to synthetic data generation, LLM (Mistral-7B) fine-tuning and e5-multi classifier w/ quantization for deployment. Full ressources available as Kaggle notebooks
 
 <b>Cool stuff :</b>  
 
