@@ -8,7 +8,7 @@
 <br>
 <b>Current projects : NLP, LLM fine-tuning / deployment optimization : </b>  
 
-- [lmd_classi](https://github.com/matthieuvion/lmd_classi) : Classifier pro-russian comments. From (small) annotated data + baseline w/ SetFit to synthetic data generation, LLM (Mistral-7B) fine-tuning and e5-multi classifier w/ quantization for deployment. Full guide, ressources, benchmarks, available as organized notebooks.
+- [lmd_classi](https://github.com/matthieuvion/lmd_classi) : Classifier pro-russian comments. From (small) annotated data + baseline w/ few-shot (SetFit) to synthetic data generation, LLM (Mistral-7B or LLama3-8B) fine-tuning and multi-e5-base classifier w/ quantization for deployment. Full guide, ressources, benchmarks, available as organized notebooks. Interested in final deployment ? Check final Docker/FastAPI repo [here](https://github.com/matthieuvion/lmd-fastapi-docker).
 - [lmd_viz](https://github.com/matthieuvion/lmd_viz) : Ukraine War (1st year) : comments as a proxy for people engagement. Viz + crafted a 200k dataset from Le Monde w/ my own API (usable "as is"). 
 
 <b>Cool stuff :</b>  
