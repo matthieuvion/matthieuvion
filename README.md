@@ -19,4 +19,4 @@
 
 <b>My favorite AI/ML newsletter (should read it too!) :</b>  
 
-[Data Machina](https://datamachina.com) : not mine, not sponsored. Technical-but-simple enough and existed way before the LLM hype.  
+[Data Machina](https://datamachina.substack.com) : not mine, not sponsored. Technical-but-simple enough and existed way before the LLM hype.  
